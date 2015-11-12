@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/arnaud/.i3'
+let g:netrw_dirhist_2='/home/arnaud/Documents/web2py/applications/runestone/static/mon_projet'
+let g:netrw_dirhist_3='/home/arnaud/.emacs.d'
+let g:netrw_dirhist_4='/home/arnaud/Dropbox/dossier de titularisation'
+let g:netrw_dirhist_5='/home/arnaud/Documents/Rainbow'
+let g:netrw_dirhist_6='/home/arnaud/Documents/Rainbow/rainbowtree'

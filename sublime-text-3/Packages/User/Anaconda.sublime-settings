@@ -1,0 +1,4 @@
+{
+    "pep8":false,
+    "extra_path": ["/usr/lib/sagemath/devel/sage-main/build/sage"]
+}

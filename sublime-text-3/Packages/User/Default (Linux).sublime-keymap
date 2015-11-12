@@ -1,0 +1,280 @@
+[
+    { "keys": ["ctrl+p"], "command": "fuzzy_start_from_file" },
+    { "keys": ["ctrl+space"], "command": "auto_complete" },
+    { "keys": ["ctrl+$"], "command": "expand_selection", "args": {"to": "line"} },
+    { "keys": ["ctrl+space"], "command": "replace_completion_with_auto_complete", "context":
+        [
+            { "key": "last_command", "operator": "equal", "operand": "insert_best_completion" },
+            { "key": "auto_complete_visible", "operator": "equal", "operand": false },
+            { "key": "setting.tab_completion", "operator": "equal", "operand": true }
+        ]
+    },
+    { "keys": ["alt+right"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+    { "keys": ["alt+shift+right"], "command": "move_to", "args": {"to": "eol", "extend": true} },
+    { "keys": ["alt+left"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    { "keys": ["alt+shift+left"], "command": "move_to", "args": {"to": "bol", "extend": true} },
+
+
+    {"keys":[",",":"], "command": "insert","args":{"characters":"\\"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+        ]
+    },
+
+
+    { "keys": [",","s","e"], "command": "insert_snippet", "args": {"contents": "\\section{$1}\\label{sec:$0}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+
+    { "keys": [",","s","s","e"], "command": "insert_snippet", "args": {"contents": "\\subsection{$1}\\label{ssec:$0}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": [",","s","s","s","e"], "command": "insert_snippet", "args": {"contents": "\\subsubsection{$1}\\label{sssec:$0}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": ["g","w"], "command": "run_macro_file", "args": {"file": "Packages/User/gw.sublime-macro"} },
+
+    { "keys": ["super+right"], "command": "move_to", "args": { "to": "eol" , "extend": false} },
+
+    { "keys": ["super+left"], "command": "move_to", "args": { "to": "bol" , "extend": false } },
+
+    { "keys": ["super+shift+left"], "command": "move_to", "args": {"to": "bol", "extend": true} },
+
+    { "keys": ["super+shift+right"], "command": "move_to", "args": {"to": "eol", "extend": true} },
+
+    { "keys": ["_","_"], "command": "insert_snippet", "args": {"contents": "_{$1}$0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": ["shift+super+up"], "command": "insert_snippet", "args": {"contents": "^{$1}$0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+
+    { "keys": ["^"], "command": "insert_snippet", "args": {"contents": "^{$1}$0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+
+    { "keys": [",","("], "command": "insert_snippet", "args": {"contents": "\\\\{$1\\\\}$0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": ["s","<"], "command": "insert_snippet", "args": {"contents": "\\subseteq $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": ["s","-"], "command": "insert_snippet", "args": {"contents": "\\setminus $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": ["s","+"], "command": "insert_snippet", "args": {"contents": "\\cup $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": ["s","*"], "command": "insert_snippet", "args": {"contents": "\\cap $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": ["=",">"], "command": "insert_snippet", "args": {"contents": "\\Longrightarrow $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": ["<","="], "command": "insert_snippet", "args": {"contents": "\\leq $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": [">","="], "command": "insert_snippet", "args": {"contents": "\\geq $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": ["S","+"], "command": "insert_snippet", "args": {"contents": "\\bigcup\\limits_{$1}^{$2} $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+
+    { "keys": ["S","*"], "command": "insert_snippet", "args": {"contents": "\\bigcap\\limits_{$1}^{$2} $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+
+    { "keys": [":","e"], "command": "insert_snippet", "args": {"contents": "\\emptyset $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex string.other.math"},
+            { "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+
+
+    { "keys": [";","p"], "command": "insert_snippet", "args": {"contents": "\\begin{proof}\n\t $0 \n\\end{proof}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": [";","f"], "command": "insert_snippet", "args": {"contents": "\\begin{frame}\n\t $0 \n\\end{frame}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": [";","B"], "command": "insert_snippet", "args": {"contents": "\\begin{block}{$1}\n\t $0 \n\\end{block}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+
+    { "keys": [";","l"], "command": "insert_snippet", "args": {"contents": "\\begin{lemma}\n\t $0 \n\\end{lemma}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": [";","t"], "command": "insert_snippet", "args": {"contents": "\\begin{theorem}\\label{thm:$1}\n\t $0 \n\\end{theorem}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": [";","P"], "command": "insert_snippet", "args": {"contents": "\\begin{proposition}\\label{prop:$1}\n\t $0 \n\\end{proposition}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": [";","c"], "command": "insert_snippet", "args": {"contents": "\\begin{corollary}\\label{cor:$1}\n\t $0 \n\\end{corollary}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": [";","E"], "command": "insert_snippet", "args": {"contents": "\\begin{enumerate}\n\t\\item $0 \n\\end{enumerate}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": [";","I"], "command": "insert_snippet", "args": {"contents": "\\begin{itemize}\n\t\\item $0 \n\\end{itemize}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+    { "keys": [";","i"], "command": "insert_snippet", "args": {"contents": "\\item $0"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    },
+
+    { "keys": [";","d"], "command": "insert_snippet", "args": {"contents": "\\begin{definition}\\label{def:$1}\n\t $0 \n\\end{definition}"},
+    "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "text.tex.latex"},
+            { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    }
+]

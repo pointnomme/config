@@ -1,0 +1,5 @@
+{
+    "Python": {
+        "pythonExtraPaths": ["/usr/lib/sagemath/devel/sage-main/build/sage","/usr/lib/sagemath/devel/sage-main/build/sage/graphs/graph.py"]
+    }
+}

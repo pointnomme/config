@@ -1,0 +1,12 @@
+{
+    "linux": {
+        // envirnoment path
+        // "path": "/usr/local/texlive/2013/bin/x86_64-linux:$PATH"
+
+        // path to sublime
+         "sublime": "/usr/bin/subl",
+
+        // which viewer to use: evince or okular (default is evince)
+         "viewer": "okular"
+    },
+}

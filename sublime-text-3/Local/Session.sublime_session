@@ -1,0 +1,2326 @@
+{
+	"folder_history":
+	[
+		"/home/arnaud/Documents/Topological",
+		"/home/arnaud/Dropbox",
+		"/home/arnaud",
+		"/home/arnaud/.config/sublime-text-3/Packages/SublimeREPL/config/Python"
+	],
+	"last_version": 3059,
+	"last_window_id": 8,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1100.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"retur",
+						"return_trees	param"
+					],
+					[
+						"flat",
+						"flat_list"
+					],
+					[
+						"gen",
+						"gen_pas_norm	function"
+					],
+					[
+						"Lab",
+						"Labels	param"
+					],
+					[
+						"generate",
+						"generate_topologie	function"
+					],
+					[
+						"None",
+						"None	keyword"
+					],
+					[
+						"lea",
+						"leaves_labels"
+					],
+					[
+						"get_",
+						"get_topologie"
+					],
+					[
+						"nod",
+						"node"
+					],
+					[
+						"Ne",
+						"NewNodes	statement"
+					],
+					[
+						"N",
+						"NewNodes	statement"
+					],
+					[
+						"is",
+						"issubset	function"
+					],
+					[
+						"__",
+						"__import__	function"
+					],
+					[
+						"B",
+						"BitVector"
+					],
+					[
+						"for",
+						"forv	Vector For Loop"
+					],
+					[
+						"if",
+						"if	If Condition"
+					],
+					[
+						"k",
+						"k"
+					],
+					[
+						"b",
+						"b"
+					],
+					[
+						"r",
+						"r"
+					],
+					[
+						"field",
+						"fieldValues	statement"
+					],
+					[
+						"trouve",
+						"Trouve"
+					],
+					[
+						"Non",
+						"Nontrouve"
+					],
+					[
+						"fiel",
+						"fieldValues	statement"
+					],
+					[
+						"E",
+						"Exception	class"
+					],
+					[
+						"sys",
+						"system	function"
+					],
+					[
+						"co",
+						"corollaire"
+					],
+					[
+						"text",
+						"textbf{text}	latex-document"
+					],
+					[
+						"app",
+						"append"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 54.0,
+				"selected_items":
+				[
+					[
+						"jum",
+						"LaTeXTools: Jump to PDF"
+					],
+					[
+						"mar",
+						"Markmon launch"
+					],
+					[
+						"ju",
+						"LaTeXTools: Jump to PDF"
+					],
+					[
+						"pand",
+						"Pandoc"
+					],
+					[
+						"pando",
+						"Pandoc"
+					],
+					[
+						"pandoc",
+						"Pandoc"
+					],
+					[
+						"pan",
+						"Pandoc"
+					],
+					[
+						"markm",
+						"Markmon launch"
+					],
+					[
+						"mark",
+						"Markmon launch"
+					],
+					[
+						"ima",
+						"Snippet: Markdown_image_(mdi)"
+					],
+					[
+						"tab",
+						"Snippet: Tabular"
+					],
+					[
+						"frame",
+						"Snippet: Beamer: Frame Two Columns (List and Figure)"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"markmo",
+						"Markmon launch"
+					],
+					[
+						"markmon",
+						"Markmon launch"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"ins",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"bib",
+						"Set Syntax: BibTeX"
+					],
+					[
+						"tabu",
+						"Snippet: Tabular"
+					],
+					[
+						"eq",
+						"Snippet: Equation"
+					],
+					[
+						"block",
+						"Snippet: Beamer: Block Element"
+					],
+					[
+						"package",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"packa",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"pdf",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"frale",
+						"Snippet: Beamer: Frame Two Rows (List and Figure)"
+					],
+					[
+						"fra",
+						"Snippet: Beamer: Frame One Column (List)"
+					],
+					[
+						"fram",
+						"Snippet: Beamer: Frame One Column (Figure)"
+					],
+					[
+						"new ta",
+						"Snippet: New table"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"atbe",
+						"Snippet: Beamer: At Begin of Section"
+					],
+					[
+						"fig",
+						"Snippet: New figure"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Split"
+					],
+					[
+						"Build: ",
+						"Build: Build"
+					],
+					[
+						"figure",
+						"Snippet: New figure"
+					],
+					[
+						"begin",
+						"Snippet: \\begin{}…\\end{}"
+					],
+					[
+						"magi",
+						"Snippet: __magic__"
+					],
+					[
+						"error",
+						"Anaconda: Show error list"
+					],
+					[
+						"err",
+						"Anaconda: Show error list"
+					],
+					[
+						"an",
+						"Anaconda: Next lint error"
+					],
+					[
+						"erro",
+						"Anaconda: Show error list"
+					],
+					[
+						"",
+						"Anaconda: Show error list"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"DIS",
+						"Package Control: Disable Package"
+					],
+					[
+						"beam",
+						"Set Syntax: LaTeX Beamer"
+					],
+					[
+						"latex",
+						"Tmpl: Create latex_fr"
+					],
+					[
+						"late",
+						"Tmpl: Create latex_fr"
+					],
+					[
+						"latex_",
+						"Tmpl: Create latex_en"
+					],
+					[
+						"tmp",
+						"Tmpl: Create latex_en"
+					],
+					[
+						"tmpl",
+						"Tmpl: Create html"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"templa",
+						"Create file from Template"
+					],
+					[
+						"teempl",
+						"Create file from Template"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"sni gr",
+						"Snippet: Figure"
+					],
+					[
+						"Snippetfig",
+						"Snippet: Figure"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"enabl",
+						"Package Control: Enable Package"
+					],
+					[
+						"Snippet: sectio",
+						"Snippet: Section"
+					],
+					[
+						"Snippet: sect",
+						"Snippet: Section"
+					],
+					[
+						"Snippet: figure",
+						"Snippet: New Figure"
+					],
+					[
+						"Snippet: new fig",
+						"Snippet: New Figure"
+					],
+					[
+						"Snippet: figu",
+						"Snippet: Figure"
+					],
+					[
+						"Snippet: fig",
+						"Snippet: New Figure"
+					],
+					[
+						"python",
+						"SublimeREPL: Python"
+					],
+					[
+						"pack",
+						"Package Control: Enable Package"
+					],
+					[
+						"table",
+						"Snippet: Table"
+					],
+					[
+						"disco",
+						"Package Control: Discover Packages"
+					],
+					[
+						"pa",
+						"Package Control: Disable Package"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/arnaud/Dropbox/increm/increm.tex",
+				"/home/arnaud/Documents/increm/increm2.tex",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/nikolla-milhomme-rmq.md",
+				"/home/arnaud/Documents/increm/categorie.md",
+				"/home/arnaud/Dropbox/increm/increm2.tex",
+				"/home/arnaud/Dropbox/increm/categorie.md",
+				"/home/yann/Dropbox/increm/increm2.tex",
+				"/home/arnaud/Dropbox/1 ere presentation Inria/pres.tex",
+				"/home/arnaud/Dropbox/1 ere presentation Inria/pres.md",
+				"/home/arnaud/Dropbox/séminiare versaille 2015/presentation.tex",
+				"/tmp/comment.md",
+				"/home/arnaud/Dropbox/BQR/projet.tex",
+				"/home/arnaud/Documents/REXAM/exam1_2015.tex",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/DELESCLUSE-SALLIS-rmq.md",
+				"/home/arnaud/Dropbox/Lattice recognition/corrections/short_lattice.tex",
+				"/home/arnaud/Dropbox/Lattice recognition/version_laurent_nettoyee/corrections/short_lattice.tex",
+				"/home/arnaud/Dropbox/1 ere presentation Inria/mtheme.pdf",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+				"/home/arnaud/Documents/REXAM/exam2_2015.tex",
+				"/home/arnaud/Documents/REXAM/exam2_2015_correctionR.tex",
+				"/tmp/comment.html",
+				"/tmp/proof.md",
+				"/home/arnaud/Documents/REXAM/exam1_2015_correctionR.tex",
+				"/home/arnaud/Bureau/exam2_2015_correctionR.tex",
+				"/home/arnaud/Documents/REXAM/exam1_2014.tex",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/DELESCLUSE-SALLIS-rmq.pdf",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/AMINI-JONES-rmq.md",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/BOSC-DESGACHES-rmq.md",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/LASSUS-GUIRAUD-rmq.md",
+				"/home/arnaud/Dropbox/cours/2014/ITP/TP/projets.md",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/arnaud/Dropbox/Prog_c/validation.cpp",
+				"/home/arnaud/Dropbox/Prog_c/maj.cpp",
+				"/home/arnaud/Dropbox/Prog_c/BitVector.h",
+				"/home/arnaud/Dropbox/Prog_c/combination.cpp",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/FINAND-rmq.md",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/FINAND-rmq",
+				"/home/arnaud/Dropbox/dossier de titularisation/dossier2.tex",
+				"/home/arnaud/Documents/Rainbow.tex",
+				"/home/arnaud/Dropbox/séminaire ens 2015/presentation.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/LatexPerso/LaTeX math.sublime-completions",
+				"/home/arnaud/Dropbox/Lattice recognition/version_laurent_nettoyee/short_lattice.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/arnaud/Dropbox/Lattice recognition/new_lattice.tex",
+				"/home/arnaud/Dropbox/Lattice recognition/algorithm2e.sty",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXing/snippets/elements/Figure.sublime-snippet",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXing/snippets/beamer/Frame Two Columns (Figure and List).sublime-snippet",
+				"/home/arnaud/.config/sublime-text-3/Packages/LatexPerso/snippets/beamer/Frame One Column (Figure).sublime-snippet",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXTools/figure.sublime-snippet",
+				"/home/arnaud/Dropbox/cours/2014/ADC/TP/projet.tex",
+				"/home/arnaud/Dropbox/Chordal-EnumDom/chordalv3.tex",
+				"/home/arnaud/Dropbox/audition lyon/presentation.tex",
+				"/home/arnaud/Dropbox/cours/2014/ADC/TD/td1.tex",
+				"/home/arnaud/Dropbox/postdoc/friendly_partition/presentation/resumé.tex",
+				"/home/arnaud/Dropbox/Chordal-EnumDom/chordalv4.tex",
+				"/home/arnaud/Dropbox/cours/2014/ADC/Ressource/CoursVincentM/moi2014/bibiCours.tex",
+				"/home/arnaud/Dropbox/lg-review/lg-2015.tex",
+				"/home/arnaud/Dropbox/Facteur_Transcription/Fact_Trans.tex",
+				"/home/arnaud/Dropbox/Alignement/alignement.tex",
+				"/home/arnaud/Documents/increm/increm.tex",
+				"/home/arnaud/Documents/Projets_sage/Ramsey_tree/PhylogeneticTrees.py",
+				"/home/arnaud/Documents/Projets_sage/Ramsey_tree/test.py",
+				"/home/arnaud/Documents/Projets_sage/Ramsey_tree/ma_classe2.py",
+				"/home/arnaud/Dropbox/BQR/cv/cv.tex",
+				"/home/arnaud/Dropbox/postdoc/friendly_partition/friendly.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/arnaud/Dropbox/Prog_c/BitVectorTolls.h",
+				"/home/arnaud/Dropbox/Prog_c/MathExtras.h",
+				"/tmp/science.bib",
+				"/usr/share/applications/kde4/okular.desktop",
+				"/home/arnaud/review iwoca",
+				"/home/arnaud/Documents/Sage_projects/contour_biparti/graph_generators.py",
+				"/home/arnaud/Documents/Sage_projects/contour_biparti/fonction.sage",
+				"/home/arnaud/Dropbox/postdoc/friendly_partition/friendly.pdf",
+				"/home/arnaud/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/LaTeX.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/FuzzyFileNav/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Default.sublime-commands",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeTmpl/Default.sublime-commands",
+				"/home/arnaud/Documents/Fact_Trans.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeTmpl/Main.sublime-menu",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/SublimeTmpl.sublime-settings",
+				"/home/arnaud/Dropbox/cours/2014/ITP/TP/TP/TP.tex",
+				"/home/arnaud/Dropbox/cours/2014/ADC/Ressource/CoursVincentM/BiBi2012/bibiCours.tex",
+				"/home/arnaud/Dropbox/cours/2014/ADC/Ressource/CoursVincentM/moi2014/bibiCours.pdf",
+				"/home/arnaud/Dropbox/dossier canditature/dossiers/dossier.tex",
+				"/home/arnaud/Documents/cpasbien.py",
+				"/home/arnaud/Documents/scrap.py",
+				"/home/arnaud/Dropbox/cours/2014/ADC/Ressource/CoursVincentM/moi2014/bibiTP.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+				"/home/arnaud/Dropbox/postdoc/betweenness/draft.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXTools/README.markdown",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXing/LaTeXing.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXing/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXing/Default.sublime-keymap",
+				"/home/arnaud/Dropbox/play2.py",
+				"/home/arnaud/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeREPL/config/Python/ipy_repl.py",
+				"/home/arnaud/Dropbox/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/LaTeXTools Preferences.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXSQ/LaTeXSQ.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/LaTeXSQ.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXSQ/support/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXSQ/support/Default (Linux).sublime-mousemap",
+				"/home/arnaud/Dropbox/postdoc/test/test.py",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/home/arnaud/Dropbox/postdoc/fonction.sage",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/home/arnaud/Dropbox/postdoc/.anaconda",
+				"/home/arnaud/Dropbox/fonction.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"itemize",
+					"maj",
+					"overli",
+					"A\\cap",
+					"\\mathbb{0}",
+					"\\mathbb{1}",
+					"\\overline",
+					"follo",
+					"$L",
+					"mathcal{C",
+					"mathcal(C",
+					"mathcal{C}",
+					"\\cC",
+					"mathcal{C}",
+					"_{\\cL",
+					"_L",
+					"{L",
+					"_L",
+					" semi",
+					"meet se",
+					"k$-sem",
+					"k-sem",
+					"semi-dis",
+					"\\limits_{\\subseteq }",
+					"verbatim",
+					"$",
+					"Sinput",
+					"verbatim",
+					"coro",
+					"Rlogo",
+					"Exploratoire",
+					"subsection",
+					"''",
+					"\"",
+					"^{",
+					"%MF",
+					"EGM03",
+					"signe",
+					"signe de fin",
+					"\\end{proof}",
+					"textcol",
+					"MI",
+					"P(\\Sigma)",
+					"P(",
+					"M(\\Sigma",
+					"M(",
+					"M_",
+					"L",
+					"fi",
+					"$). ",
+					"\\enum",
+					"C",
+					"algo2e",
+					"theorem",
+					"block",
+					"theorem",
+					"proposition",
+					"ovreprint",
+					"overlay",
+					"block",
+					"  ",
+					"    \n",
+					"lemma",
+					"random_tree",
+					"random_combination",
+					"ceil",
+					"K2",
+					"is_lea",
+					"        \n",
+					"class PhylogeneticTree",
+					"PhylogeneticTree",
+					"PhiloLabelledBinaryTree",
+					"LabelledBinaryTree",
+					"class",
+					"labelled",
+					"LabelledBinaryTree",
+					"limos",
+					"tr(E",
+					"minimal transversal ",
+					"insert",
+					"b",
+					"insert",
+					"set",
+					"setr",
+					"set",
+					"vec",
+					"llvm",
+					"Bases",
+					"item",
+					"\n  ",
+					"  \n",
+					"polymorphique",
+					"\\!",
+					"frametitile",
+					"i.e.",
+					"sum",
+					"summa",
+					"beaud",
+					"setmin",
+					"env",
+					"\\cenytering",
+					"\\includegraphics",
+					"overlay",
+					"overprint",
+					"sectio",
+					"frame",
+					"ESC",
+					"begin",
+					"overlayarea",
+					"onslide",
+					"only",
+					"onslide",
+					"[",
+					"itemize",
+					"Enumerate",
+					"itemize",
+					"aux sommet",
+					"nécess",
+					"multi",
+					"arcs",
+					"les arête ",
+					"coïn",
+					"apparai",
+					"chaine",
+					"section",
+					"4",
+					"section",
+					"Réseau"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\0 ",
+					"\\1 ",
+					"\\bar",
+					"k$-meet-sem",
+					"semidis",
+					"texttt",
+					"\\$ ",
+					"texttt",
+					"Sinput",
+					"\\qed\\end{proof}",
+					"\\mathcal{M}(",
+					"\\mathcal{M}_",
+					"C(T)",
+					"PhylogeneticTree",
+					"PhiloLabelledBinaryTree",
+					"PhyloLabelledBinaryTree",
+					"BitVector",
+					"multi-",
+					"chaîne",
+					"commande"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 189.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 121.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 995.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"hyper",
+						"hyperedge"
+					],
+					[
+						"retur",
+						"return_trees	param"
+					],
+					[
+						"flat",
+						"flat_list"
+					],
+					[
+						"gen",
+						"gen_pas_norm	function"
+					],
+					[
+						"Lab",
+						"Labels	param"
+					],
+					[
+						"generate",
+						"generate_topologie	function"
+					],
+					[
+						"None",
+						"None	keyword"
+					],
+					[
+						"lea",
+						"leaves_labels"
+					],
+					[
+						"get_",
+						"get_topologie"
+					],
+					[
+						"nod",
+						"node"
+					],
+					[
+						"Ne",
+						"NewNodes	statement"
+					],
+					[
+						"N",
+						"NewNodes	statement"
+					],
+					[
+						"is",
+						"issubset	function"
+					],
+					[
+						"__",
+						"__import__	function"
+					],
+					[
+						"B",
+						"BitVector"
+					],
+					[
+						"for",
+						"forv	Vector For Loop"
+					],
+					[
+						"if",
+						"if	If Condition"
+					],
+					[
+						"k",
+						"k"
+					],
+					[
+						"b",
+						"b"
+					],
+					[
+						"r",
+						"r"
+					],
+					[
+						"field",
+						"fieldValues	statement"
+					],
+					[
+						"trouve",
+						"Trouve"
+					],
+					[
+						"Non",
+						"Nontrouve"
+					],
+					[
+						"fiel",
+						"fieldValues	statement"
+					],
+					[
+						"E",
+						"Exception	class"
+					],
+					[
+						"sys",
+						"system	function"
+					],
+					[
+						"co",
+						"corollaire"
+					],
+					[
+						"text",
+						"textbf{text}	latex-document"
+					],
+					[
+						"app",
+						"append"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/arnaud/Dropbox/1 ere presentation Inria/pres.tex",
+					"settings":
+					{
+						"buffer_size": 7066,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Dropbox/sequence_rearrangement/notes.md",
+					"settings":
+					{
+						"buffer_size": 2625,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Dropbox/Lattice recognition/corrections/short_lattice.tex",
+					"settings":
+					{
+						"buffer_size": 43647,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Dropbox/séminaire ens 2015/presentation.tex",
+					"settings":
+					{
+						"buffer_size": 48651,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Téléchargements/MFCS2015.tex",
+					"settings":
+					{
+						"buffer_size": 34809,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Dropbox/dossier de titularisation/dossier3.tex",
+					"settings":
+					{
+						"buffer_size": 14862,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Dropbox/dossier de titularisation/Mary_Arnaud.bib",
+					"settings":
+					{
+						"buffer_size": 7663,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Documents/Projets_sage/Ramsey_tree/test.py",
+					"settings":
+					{
+						"buffer_size": 130320,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Documents/increm/increm.tex",
+					"settings":
+					{
+						"buffer_size": 25412,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Dropbox/chain systems/notes.tex",
+					"settings":
+					{
+						"buffer_size": 8500,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Documents/lettre_de_recommandation.md",
+					"settings":
+					{
+						"buffer_size": 626,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Documents/Rainbow/rainbowtree/rainbow2.tex",
+					"settings":
+					{
+						"buffer_size": 24809,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Dropbox/Metric dimension and VCdimension/preliminary notes/VCdimension (meeting Clermont)/rapportClermont.tex",
+					"settings":
+					{
+						"buffer_size": 12510,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/arnaud/Dropbox/cours/2015/ENS/Networks/Enumeration/enumeration.tex",
+					"settings":
+					{
+						"buffer_size": 32294,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/arnaud/Dropbox/increm/ArXiv/increm2.tex",
+					"settings":
+					{
+						"buffer_size": 71630,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 285.0,
+				"selected_items":
+				[
+					[
+						"figure",
+						"Snippet: New figure"
+					],
+					[
+						"ta",
+						"Snippet: Tabular"
+					],
+					[
+						"column",
+						"Snippet: Beamer: Frame Two Columns (Figure and List)"
+					],
+					[
+						"jum",
+						"LaTeXTools: Jump to PDF"
+					],
+					[
+						"mar",
+						"Markmon launch"
+					],
+					[
+						"ju",
+						"LaTeXTools: Jump to PDF"
+					],
+					[
+						"pand",
+						"Pandoc"
+					],
+					[
+						"pando",
+						"Pandoc"
+					],
+					[
+						"pandoc",
+						"Pandoc"
+					],
+					[
+						"pan",
+						"Pandoc"
+					],
+					[
+						"markm",
+						"Markmon launch"
+					],
+					[
+						"mark",
+						"Markmon launch"
+					],
+					[
+						"ima",
+						"Snippet: Markdown_image_(mdi)"
+					],
+					[
+						"tab",
+						"Snippet: Tabular"
+					],
+					[
+						"frame",
+						"Snippet: Beamer: Frame Two Columns (List and Figure)"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"markmo",
+						"Markmon launch"
+					],
+					[
+						"markmon",
+						"Markmon launch"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"markdo",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"ins",
+						"Package Control: Advanced Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"bib",
+						"Set Syntax: BibTeX"
+					],
+					[
+						"tabu",
+						"Snippet: Tabular"
+					],
+					[
+						"eq",
+						"Snippet: Equation"
+					],
+					[
+						"block",
+						"Snippet: Beamer: Block Element"
+					],
+					[
+						"package",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"packa",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"pdf",
+						"LaTeXTools: View PDF"
+					],
+					[
+						"frale",
+						"Snippet: Beamer: Frame Two Rows (List and Figure)"
+					],
+					[
+						"fra",
+						"Snippet: Beamer: Frame One Column (List)"
+					],
+					[
+						"fram",
+						"Snippet: Beamer: Frame One Column (Figure)"
+					],
+					[
+						"new ta",
+						"Snippet: New table"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"atbe",
+						"Snippet: Beamer: At Begin of Section"
+					],
+					[
+						"fig",
+						"Snippet: New figure"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Split"
+					],
+					[
+						"Build: ",
+						"Build: Build"
+					],
+					[
+						"begin",
+						"Snippet: \\begin{}…\\end{}"
+					],
+					[
+						"magi",
+						"Snippet: __magic__"
+					],
+					[
+						"error",
+						"Anaconda: Show error list"
+					],
+					[
+						"err",
+						"Anaconda: Show error list"
+					],
+					[
+						"an",
+						"Anaconda: Next lint error"
+					],
+					[
+						"erro",
+						"Anaconda: Show error list"
+					],
+					[
+						"",
+						"Anaconda: Show error list"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"DIS",
+						"Package Control: Disable Package"
+					],
+					[
+						"beam",
+						"Set Syntax: LaTeX Beamer"
+					],
+					[
+						"latex",
+						"Tmpl: Create latex_fr"
+					],
+					[
+						"late",
+						"Tmpl: Create latex_fr"
+					],
+					[
+						"latex_",
+						"Tmpl: Create latex_en"
+					],
+					[
+						"tmp",
+						"Tmpl: Create latex_en"
+					],
+					[
+						"tmpl",
+						"Tmpl: Create html"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"templa",
+						"Create file from Template"
+					],
+					[
+						"teempl",
+						"Create file from Template"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"sni gr",
+						"Snippet: Figure"
+					],
+					[
+						"Snippetfig",
+						"Snippet: Figure"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"enabl",
+						"Package Control: Enable Package"
+					],
+					[
+						"Snippet: sectio",
+						"Snippet: Section"
+					],
+					[
+						"Snippet: sect",
+						"Snippet: Section"
+					],
+					[
+						"Snippet: figure",
+						"Snippet: New Figure"
+					],
+					[
+						"Snippet: new fig",
+						"Snippet: New Figure"
+					],
+					[
+						"Snippet: figu",
+						"Snippet: Figure"
+					],
+					[
+						"Snippet: fig",
+						"Snippet: New Figure"
+					],
+					[
+						"python",
+						"SublimeREPL: Python"
+					],
+					[
+						"pack",
+						"Package Control: Enable Package"
+					],
+					[
+						"table",
+						"Snippet: Table"
+					],
+					[
+						"disco",
+						"Package Control: Discover Packages"
+					],
+					[
+						"pa",
+						"Package Control: Disable Package"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/arnaud/Documents/Rainbow/rainbowtree/rainbow.tex",
+				"/home/arnaud/Dropbox/PhylogeneticTrees.py",
+				"/home/arnaud/Documents/Topological/README",
+				"/home/arnaud/Dropbox/increm/STACS/increm2.tex",
+				"/home/arnaud/Dropbox/increm/ArXiv/reducedpost.pdf_tex",
+				"/home/arnaud/Dropbox/increm/increm2.tex",
+				"/home/yann/Dropbox/increm/increm2.tex",
+				"/home/arnaud/Documents/increm/increm2.tex",
+				"/home/arnaud/Dropbox/increm/increm.tex",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/nikolla-milhomme-rmq.md",
+				"/home/arnaud/Documents/increm/categorie.md",
+				"/home/arnaud/Dropbox/increm/categorie.md",
+				"/home/arnaud/Dropbox/1 ere presentation Inria/pres.tex",
+				"/home/arnaud/Dropbox/1 ere presentation Inria/pres.md",
+				"/home/arnaud/Dropbox/séminiare versaille 2015/presentation.tex",
+				"/tmp/comment.md",
+				"/home/arnaud/Dropbox/BQR/projet.tex",
+				"/home/arnaud/Documents/REXAM/exam1_2015.tex",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/DELESCLUSE-SALLIS-rmq.md",
+				"/home/arnaud/Dropbox/Lattice recognition/corrections/short_lattice.tex",
+				"/home/arnaud/Dropbox/Lattice recognition/version_laurent_nettoyee/corrections/short_lattice.tex",
+				"/home/arnaud/Dropbox/1 ere presentation Inria/mtheme.pdf",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+				"/home/arnaud/Documents/REXAM/exam2_2015.tex",
+				"/home/arnaud/Documents/REXAM/exam2_2015_correctionR.tex",
+				"/tmp/comment.html",
+				"/tmp/proof.md",
+				"/home/arnaud/Documents/REXAM/exam1_2015_correctionR.tex",
+				"/home/arnaud/Bureau/exam2_2015_correctionR.tex",
+				"/home/arnaud/Documents/REXAM/exam1_2014.tex",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/DELESCLUSE-SALLIS-rmq.pdf",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/AMINI-JONES-rmq.md",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/BOSC-DESGACHES-rmq.md",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/LASSUS-GUIRAUD-rmq.md",
+				"/home/arnaud/Dropbox/cours/2014/ITP/TP/projets.md",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/arnaud/Dropbox/Prog_c/validation.cpp",
+				"/home/arnaud/Dropbox/Prog_c/maj.cpp",
+				"/home/arnaud/Dropbox/Prog_c/BitVector.h",
+				"/home/arnaud/Dropbox/Prog_c/combination.cpp",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/FINAND-rmq.md",
+				"/home/arnaud/Documents/biostatbioinfo_pri_2014/gr_A1/FINAND-rmq",
+				"/home/arnaud/Dropbox/dossier de titularisation/dossier2.tex",
+				"/home/arnaud/Documents/Rainbow.tex",
+				"/home/arnaud/Dropbox/séminaire ens 2015/presentation.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/LatexPerso/LaTeX math.sublime-completions",
+				"/home/arnaud/Dropbox/Lattice recognition/version_laurent_nettoyee/short_lattice.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/arnaud/Dropbox/Lattice recognition/new_lattice.tex",
+				"/home/arnaud/Dropbox/Lattice recognition/algorithm2e.sty",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXing/snippets/elements/Figure.sublime-snippet",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXing/snippets/beamer/Frame Two Columns (Figure and List).sublime-snippet",
+				"/home/arnaud/.config/sublime-text-3/Packages/LatexPerso/snippets/beamer/Frame One Column (Figure).sublime-snippet",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXTools/figure.sublime-snippet",
+				"/home/arnaud/Dropbox/cours/2014/ADC/TP/projet.tex",
+				"/home/arnaud/Dropbox/Chordal-EnumDom/chordalv3.tex",
+				"/home/arnaud/Dropbox/audition lyon/presentation.tex",
+				"/home/arnaud/Dropbox/cours/2014/ADC/TD/td1.tex",
+				"/home/arnaud/Dropbox/postdoc/friendly_partition/presentation/resumé.tex",
+				"/home/arnaud/Dropbox/Chordal-EnumDom/chordalv4.tex",
+				"/home/arnaud/Dropbox/cours/2014/ADC/Ressource/CoursVincentM/moi2014/bibiCours.tex",
+				"/home/arnaud/Dropbox/lg-review/lg-2015.tex",
+				"/home/arnaud/Dropbox/Facteur_Transcription/Fact_Trans.tex",
+				"/home/arnaud/Dropbox/Alignement/alignement.tex",
+				"/home/arnaud/Documents/increm/increm.tex",
+				"/home/arnaud/Documents/Projets_sage/Ramsey_tree/PhylogeneticTrees.py",
+				"/home/arnaud/Documents/Projets_sage/Ramsey_tree/test.py",
+				"/home/arnaud/Documents/Projets_sage/Ramsey_tree/ma_classe2.py",
+				"/home/arnaud/Dropbox/BQR/cv/cv.tex",
+				"/home/arnaud/Dropbox/postdoc/friendly_partition/friendly.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+				"/home/arnaud/Dropbox/Prog_c/BitVectorTolls.h",
+				"/home/arnaud/Dropbox/Prog_c/MathExtras.h",
+				"/tmp/science.bib",
+				"/usr/share/applications/kde4/okular.desktop",
+				"/home/arnaud/review iwoca",
+				"/home/arnaud/Documents/Sage_projects/contour_biparti/graph_generators.py",
+				"/home/arnaud/Documents/Sage_projects/contour_biparti/fonction.sage",
+				"/home/arnaud/Dropbox/postdoc/friendly_partition/friendly.pdf",
+				"/home/arnaud/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/LaTeX.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/FuzzyFileNav/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Default.sublime-commands",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeTmpl/Default.sublime-commands",
+				"/home/arnaud/Documents/Fact_Trans.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeTmpl/Main.sublime-menu",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/SublimeTmpl.sublime-settings",
+				"/home/arnaud/Dropbox/cours/2014/ITP/TP/TP/TP.tex",
+				"/home/arnaud/Dropbox/cours/2014/ADC/Ressource/CoursVincentM/BiBi2012/bibiCours.tex",
+				"/home/arnaud/Dropbox/cours/2014/ADC/Ressource/CoursVincentM/moi2014/bibiCours.pdf",
+				"/home/arnaud/Dropbox/dossier canditature/dossiers/dossier.tex",
+				"/home/arnaud/Documents/cpasbien.py",
+				"/home/arnaud/Documents/scrap.py",
+				"/home/arnaud/Dropbox/cours/2014/ADC/Ressource/CoursVincentM/moi2014/bibiTP.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+				"/home/arnaud/Dropbox/postdoc/betweenness/draft.tex",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXTools/README.markdown",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXing/LaTeXing.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXing/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXing/Default.sublime-keymap",
+				"/home/arnaud/Dropbox/play2.py",
+				"/home/arnaud/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeREPL/config/Python/ipy_repl.py",
+				"/home/arnaud/Dropbox/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/LaTeXTools Preferences.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXSQ/LaTeXSQ.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/LaTeXSQ.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXSQ/support/Default (Linux).sublime-keymap",
+				"/home/arnaud/.config/sublime-text-3/Packages/LaTeXSQ/support/Default (Linux).sublime-mousemap",
+				"/home/arnaud/Dropbox/postdoc/test/test.py",
+				"/home/arnaud/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/home/arnaud/Dropbox/postdoc/fonction.sage",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/arnaud/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/home/arnaud/Dropbox/postdoc/.anaconda",
+				"/home/arnaud/Dropbox/fonction.py"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"cons",
+					"itemize",
+					"proposition",
+					"IP",
+					"the class",
+					"$\\NS",
+					"incremental",
+					"subse",
+					"P",
+					"arra",
+					"tabl",
+					"tabul",
+					"proposition",
+					"}\n",
+					"\n  ",
+					"  \\",
+					"\n  ",
+					"  \n",
+					"\n  ",
+					"theorem",
+					"M_2",
+					"\\end{proof}",
+					"reduced",
+					"given",
+					"include",
+					"$\n",
+					"proposition",
+					"MP",
+					"color",
+					"MP",
+					"itemize",
+					"maj",
+					"overli",
+					"A\\cap",
+					"\\mathbb{0}",
+					"\\mathbb{1}",
+					"\\overline",
+					"follo",
+					"$L",
+					"mathcal{C",
+					"mathcal(C",
+					"mathcal{C}",
+					"\\cC",
+					"mathcal{C}",
+					"_{\\cL",
+					"_L",
+					"{L",
+					"_L",
+					" semi",
+					"meet se",
+					"k$-sem",
+					"k-sem",
+					"semi-dis",
+					"\\limits_{\\subseteq }",
+					"verbatim",
+					"$",
+					"Sinput",
+					"verbatim",
+					"coro",
+					"Rlogo",
+					"Exploratoire",
+					"subsection",
+					"''",
+					"\"",
+					"^{",
+					"%MF",
+					"EGM03",
+					"signe",
+					"signe de fin",
+					"\\end{proof}",
+					"textcol",
+					"MI",
+					"P(\\Sigma)",
+					"P(",
+					"M(\\Sigma",
+					"M(",
+					"M_",
+					"L",
+					"fi",
+					"$). ",
+					"\\enum",
+					"C",
+					"algo2e",
+					"theorem",
+					"block",
+					"theorem",
+					"proposition",
+					"ovreprint",
+					"overlay",
+					"block",
+					"  ",
+					"    \n",
+					"lemma",
+					"random_tree",
+					"random_combination",
+					"ceil",
+					"K2",
+					"is_lea",
+					"        \n",
+					"class PhylogeneticTree",
+					"PhylogeneticTree",
+					"PhiloLabelledBinaryTree",
+					"LabelledBinaryTree",
+					"class",
+					"labelled",
+					"LabelledBinaryTree",
+					"limos",
+					"tr(E",
+					"minimal transversal ",
+					"insert",
+					"b",
+					"insert",
+					"set",
+					"setr",
+					"set",
+					"vec",
+					"llvm",
+					"Bases",
+					"item",
+					"\n  ",
+					"  \n",
+					"polymorphique",
+					"\\!",
+					"frametitile",
+					"i.e.",
+					"sum",
+					"summa",
+					"beaud"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\qed \\end{proof}",
+					"\\0 ",
+					"\\1 ",
+					"\\bar",
+					"k$-meet-sem",
+					"semidis",
+					"texttt",
+					"\\$ ",
+					"texttt",
+					"Sinput",
+					"\\qed\\end{proof}",
+					"\\mathcal{M}(",
+					"\\mathcal{M}_",
+					"C(T)",
+					"PhylogeneticTree",
+					"PhiloLabelledBinaryTree",
+					"PhyloLabelledBinaryTree",
+					"BitVector",
+					"multi-",
+					"chaîne",
+					"commande"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/arnaud/.config/sublime-text-3/Packages/SublimeREPL/config/Python"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 13,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/arnaud/Dropbox/1 ere presentation Inria/pres.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7066,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4936,
+										4936
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2299.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/arnaud/Dropbox/sequence_rearrangement/notes.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2625,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										681,
+										681
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 195.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/arnaud/Dropbox/Lattice recognition/corrections/short_lattice.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 43647,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3604,
+										3604
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2218.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/arnaud/Dropbox/séminaire ens 2015/presentation.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 48651,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1130,
+										1130
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 378.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/arnaud/Téléchargements/MFCS2015.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 34809,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										34726,
+										34726
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 15105.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/arnaud/Dropbox/dossier de titularisation/dossier3.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14862,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1833,
+										1833
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 654.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/arnaud/Dropbox/dossier de titularisation/Mary_Arnaud.bib",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7663,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4151,
+										4151
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LaTeX/Bibtex.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 676.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/arnaud/Documents/Projets_sage/Ramsey_tree/test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 130320,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										107445,
+										107445
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 55663.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/arnaud/Documents/increm/increm.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25412,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										124,
+										124
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/arnaud/Dropbox/chain systems/notes.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8500,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 810.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/home/arnaud/Documents/lettre_de_recommandation.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 626,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										625,
+										625
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"spell_check": true,
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/home/arnaud/Documents/Rainbow/rainbowtree/rainbow2.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24809,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12169,
+										12169
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5780.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/home/arnaud/Dropbox/Metric dimension and VCdimension/preliminary notes/VCdimension (meeting Clermont)/rapportClermont.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12510,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4240,
+										4240
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1674.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/home/arnaud/Dropbox/cours/2015/ENS/Networks/Enumeration/enumeration.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32294,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25171,
+										25171
+									]
+								],
+								"settings":
+								{
+									"spell_check": true,
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 17514.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/home/arnaud/Dropbox/increm/ArXiv/increm2.tex",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 71630,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										161,
+										161
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
+								},
+								"translation.x": -0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 189.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,1,0,0,0,57,24,1052,1124,2048,1152",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+				"_vintageous_last_char_search_command": "vi_f",
+				"_vintageous_last_character_search": "a",
+				"_vintageous_reset_during_init": true,
+				"vintage":
+				{
+					"_cmdline_cd": "/home/arnaud/Dropbox/postdoc/friendly_partition/presentation"
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 121.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
